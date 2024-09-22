@@ -11,6 +11,7 @@ Kullanılan veri seti: side_effect_data.csv
 Veri seti, hastaların ilaç kullanımı, yan etkileri ve ilgili demografik bilgileri içermektedir. Toplamda 2357 kayıt ve 19 sütun bulunmaktadır.
 
 # Özellikler
+Veri Analizi: Hangi verilerin Yan Etki kolonuna daha çok etki ettiği ve verilerin arasında ne tür ilişkiler olduğu anlaşılmıştır.
 Eksik Veri Kontrolü: Veri setindeki eksik veriler, uygun stratejilerle doldurulmuştur.
 Korelasyon Analizi: Sayısal değişkenler arasındaki ilişkiler incelenmiştir.
 Verilerin Standartlaştırılması: Farklı ölçeklerdeki verilerin karşılaştırılabilir hale getirilmesi için standartlaştırma yapılmıştır.
